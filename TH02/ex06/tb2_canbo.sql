@@ -1,0 +1,10 @@
+INSERT INTO `tb2_canbo` VALUES ('A01', 'haint', '123', 'Nguyễn Thị', 'Hải', '1', '2018-4-1 02:00:47', 'Sài gòn', '12 B Võ văn Tần', 'IT', 'GS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('A02', 'chinhtv', '123', 'Trần văn', 'Chính', '0', '2018-4-2 23:01:28', 'Sài gòn', '34 Nguyễn Bỉnh Khiêm', 'IT', 'PGS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('A03', 'yentb', '123', 'Lê Bạch', 'Yến', '1', '2018-4-3 03:01:41', 'Hà Nội', '765 PasTeur', 'IT', 'TS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('B01', 'maitt', '123', 'Trần thu ', 'Mai', '1', '2018-4-4 03:01:44', 'Bến tre', '32 Lê lai', 'TT', 'TS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('B02', 'thuytt', '123', 'Lê thị', 'Thủy', '1', '2018-4-5 03:01:47', 'Sài gòn', '45 Nguyễn Thái sơn', 'TT', 'Ths', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('B03', 'thanhlt', '123', 'Trần trọng ', 'Thanh', '1', '2018-4-6 03:03:13', 'Sài gòn', '123 Lê văn sỹ', 'CK', 'TS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('B04', 'kimtt', '123', 'Tào hồng', 'Kim', '0', '2018-4-7 03:03:18', 'Sài gòn', '345 Nguyễn Kiệm', 'CK', 'Ths', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('C01', 'thienth', '123', 'Hòang minh ', 'Thiên', '0', '2018-4-8 03:03:22', 'Sài gòn', '56 Hòang Diệu', 'EM', 'TS', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('C02', 'chauhm', '123', 'Trần Thanh', 'Châu', '0', '2018-4-9 03:03:25', 'Sài gòn', '102 Kỳ Đồng', 'EM', 'Ths', NULL, NULL);
+INSERT INTO `tb2_canbo` VALUES ('C03', 'huongpq', '123', 'Phan quỳnh', 'Hương', '1', '2018-4-10 03:03:29', 'Sài gòn', '234 Phạm văn hai', 'IT', 'TS', NULL, NULL);

@@ -1,0 +1,13 @@
+INSERT INTO `tb4_ketqua` VALUES ('A01', '01', 2);
+INSERT INTO `tb4_ketqua` VALUES ('A01', '03', 7);
+INSERT INTO `tb4_ketqua` VALUES ('A02', '01', 5);
+INSERT INTO `tb4_ketqua` VALUES ('A02', '05', 9);
+INSERT INTO `tb4_ketqua` VALUES ('A03', '01', 5);
+INSERT INTO `tb4_ketqua` VALUES ('A03', '03', 3);
+INSERT INTO `tb4_ketqua` VALUES ('B01', '03', 3);
+INSERT INTO `tb4_ketqua` VALUES ('B01', '02', 6);
+INSERT INTO `tb4_ketqua` VALUES ('B02', '04', 10);
+INSERT INTO `tb4_ketqua` VALUES ('B02', '01', 7);
+INSERT INTO `tb4_ketqua` VALUES ('B03', '03', 6);
+INSERT INTO `tb4_ketqua` VALUES ('B04', '05', 3);
+INSERT INTO `tb4_ketqua` VALUES ('B04', '06', 4);
